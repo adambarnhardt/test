@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! My name's Adam Barnhardt and I'm a PhD student and researcher in sociolinguistics at Michigan State University.
 
 <!--
 **scheunenherz/scheunenherz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
